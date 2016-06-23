@@ -1,0 +1,28 @@
+header{
+	text-align: center;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+
+.container{
+	margin: 0 auto;
+	text-align: center;
+}
+
+.text{
+	font-size: 1em;
+	font-family: sans-serif;
+	max-width: 1200px;
+	height: 400px;
+	line-height: 1.5em;
+}
+
+blockquote {
+	background-color: #ffb3b3;
+}
+        
+body {
+	background-color: #f39c12;
+}
+
+
